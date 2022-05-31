@@ -1,2 +1,2 @@
-# c-pozor
+# my c++ pozor
 c++
